@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eloheh - Customer Testimonials</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #1976d2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-family: "Georgia", serif;
+            font-size: 36px;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .intro,
+        .story,
+        .testimonial,
+        .appreciation,
+        .sources,
+        .download-link,
+        .contact,
+        .external-link {
+            margin-bottom: 30px;
+        }
+
+        .intro p,
+        .story p {
+            margin-top: 10px;
+        }
+
+        .section-title {
+            font-size: 24px;
+            color: #1976d2;
+            margin-top: 40px;
+            border-bottom: 2px solid #1976d2;
+            padding-bottom: 5px;
+        }
+
+        img.banner {
+            width: 150px;
+            max-width: 170px;
+            display: block;
+            padding: 20px 0;
+            margin: 20px auto;
+            border-radius: 8px;
+        }
+
+        .testimonial {
+            background-color: #eaf3fb;
+            border-left: 4px solid #1976d2;
+            padding: 16px;
+            border-radius: 6px;
+        }
+
+        .testimonial p {
+            font-style: italic;
+            color: #444;
+        }
+
+        .testimonial strong {
+            display: block;
+            margin-top: 5px;
+            font-size: 14px;
+            color: #1976d2;
+        }
+
+        ul,
+        ol {
+            padding-left: 20px;
+        }
+
+        a {
+            color: #1976d2;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .more-info {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #f2f9ff;
+            border-left: 4px solid #1976d2;
+            border-radius: 8px;
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        .more-info a {
+            color: #1976d2;
+            font-weight: bold;
+        }
+
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            color: #888;
+            background-color: #f9f9f9;
+            margin-top: 40px;
+        }
+
+        .highlight {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Customer Testimonials – Eloheh Healthcare</h1>
+    </header>
+
+    <div class="container">
+
+        
+        <div class="intro">
+            <h2 class="section-title">Our Clients' Voices</h2>
+            <p>At Eloheh, we believe that the best measure of our impact comes directly from those we serve. From
+                individuals managing chronic conditions to caregivers seeking dependable solutions, our clients share
+                their real stories and honest feedback. Their experiences inspire us to innovate, improve, and continue
+                our mission of delivering accessible, reliable, and compassionate healthcare products and services.</p>
+            <p>Explore their testimonials and discover how Eloheh makes a difference every day.</p>
+        </div>
+
+        
+        <img class="banner" src="./img/avatar.jpeg" alt="Eloheh clients">
+
+        
+        <div class="story">
+            <h2 class="section-title">Success Stories</h2>
+
+            <p><strong>Maria G. – Stroke Recovery</strong><br>
+                After her stroke, Maria began using Eloheh’s smart rehabilitation wearable. “The device gave me the
+                confidence to walk again,” she says. With daily progress tracking and real-time feedback, Maria felt
+                empowered and supported through her recovery journey.</p>
+
+            <p><strong>Westwood Retirement Community</strong><br>
+                This senior living facility adopted Eloheh’s telehealth system to provide residents with access to
+                remote care. Since implementation, the community has reported faster response times, increased resident
+                satisfaction, and a stronger connection with healthcare providers.</p>
+        </div>
+
+        
+        <div class="testimonial">
+            <p>“Thanks to <span class="highlight">Eloheh</span>’s home care service, my grandmother is now enjoying her
+                life again. The staff are professional, warm, and attentive.”</p>
+            <strong>– Sarah M., New York</strong>
+        </div>
+
+        <div class="testimonial">
+            <p>“The <span style="color: darkgreen;">telehealth</span> support helped me recover faster without needing
+                to leave home. <span class="highlight">Highly recommended!</span>”</p>
+            <strong>– James T., Chicago</strong>
+        </div>
+
+        <div class="testimonial">
+            <p>“I was nervous after surgery, but the home nurse team made me feel safe and cared for. They even helped
+                with physical therapy at home.”</p>
+            <strong>– Linda C., Seattle</strong>
+        </div>
+
+        
+        <div class="appreciation">
+            <h2 class="section-title">Why Our Customers Love Us</h2>
+            <ul>
+                <li>Warm and professional caregivers</li>
+                <li>Fast response time and follow-ups</li>
+                <li>Modern telehealth integration</li>
+                <li>Affordable pricing with insurance support</li>
+            </ul>
+        </div>
+
+        
+        <div class="sources">
+            <h2 class="section-title">Sources of Feedback</h2>
+            <ol>
+                <li>2024 Satisfaction Survey (1,000+ responses)</li>
+                <li>Verified Google Business Reviews</li>
+                <li>Community Health Forum Testimonials</li>
+            </ol>
+        </div>
+
+        <div class="more-info">
+            <p>
+                Interested in learning more about how Eloheh supports healthy living?<br>
+                Visit <a href="https://www.nih.gov/health-information"
+                    target="_blank">https://www.nih.gov/health-information</a> for expert health resources.
+            </p>
+
+            <p>
+                Have your own Eloheh experience to share? We’d love to hear from you!<br>
+                📧 Contact us at: <a href="mailto:client.feedback@eloheh.com">client.feedback@eloheh.com</a>
+            </p>
+
+            <p>
+                📎 Download our full report:
+                <a href="files/Success_Stories.pdf" download>[Client Success Stories – PDF]</a>
+            </p>
+        </div>
+
+    </div>
+
+    
+    <footer>
+        <p id="last-modified"></p>
+        <script>
+            document.getElementById("last-modified").textContent = "Last Modified: " + document.lastModified;
+        </script>
+    </footer>
+
+</body>
+
+</html>
